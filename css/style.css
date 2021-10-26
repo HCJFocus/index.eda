@@ -404,3 +404,53 @@ display: none;
     margin-left: 20px;
     text-decoration: none;
 }
+.tabs-content{
+    display: flex;
+    justify-content: space-between;
+}
+.benefits{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.benefit-box{
+    display: flex;
+    justify-content: space-between;
+}
+.benefit-item{
+    text-align: center;
+    width: 270px;
+    height: 300px;
+    border-radius: 18px;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+    border: 1px solid #E9E9E9;
+}
+.benefit-item-title{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23px;
+    max-width: 158px;
+    margin: 0 auto;
+    margin-bottom: 13px;
+}
+.benefit-item-text{
+    font-size: 14px;
+    line-height: 22px;
+    max-width: 223px;
+    margin: 0 auto;
+}
+.benefit-box-tilte{
+    max-width: 188px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23px;
+    margin: 0 auto;
+    margin-bottom: 13px;
+}
+.benefit-img{
+    margin-bottom: 36px;
+}
+.benefit-item-container{
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 31px;
+}
